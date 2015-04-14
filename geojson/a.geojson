@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Polygon",
+                                "coordinates": [
+                                    [
+                                        [
+                                            33.94481,
+                                            -118.40587
+                                        ],
+                                        [
+                                            33.9474,
+                                            -118.40614
+                                        ],
+                                        [
+                                            33.94708,
+                                            -118.40914
+                                        ],
+                                        [
+                                            33.94437,
+                                            -118.40807
+                                        ],
+                                        [
+                                            33.94481,
+                                            -118.40587
+                                        ]
+                                    ]
+                                ]
+                            },
+                             "properties": {
+                "id": "c65bdbf4-fcbd-408c-a5e0-49d48bd51ec7",
+                "locationSelectionDescription": "Choose your terminal and door."
+                            }
+                            }
+]
+}
